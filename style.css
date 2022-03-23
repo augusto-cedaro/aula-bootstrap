@@ -1,0 +1,21 @@
+.quem-somos{
+    background-color: rgb(167, 167, 238);
+    color: rgb(0, 0, 0);
+}
+.padding{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.parceiros{
+    padding-top: 10px;
+    background-color: rgb(140, 187, 228);
+}
+.servicos{
+    padding-top: 20px;
+    background-color: rgb(244, 255, 149);
+}
+.bg-footer{
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
